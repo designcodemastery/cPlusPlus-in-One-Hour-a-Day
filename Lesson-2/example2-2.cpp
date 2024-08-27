@@ -10,7 +10,7 @@ int main() {
     using namespace std;
 
     /* Write to the screen using std::cout */
-    cout << "Hello Martin, Welcome to the world of C++!" << endl;
+    cout << "Hello Martin, Welcome to the world of C++!!" << endl;
 
     // Return a value to the OS
     return 0;

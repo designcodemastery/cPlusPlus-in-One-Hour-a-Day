@@ -20,7 +20,7 @@ int main() {
 
 string AdditionalConsoleOutput() {
 
-    return "More text from my AdditionConsoleOutput funnction";
+    return "[More text from my AdditionConsoleOutput funnction]";
 
 }
 int DemoConsoleOutput() {
